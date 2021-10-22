@@ -1,4 +1,4 @@
-package com.company;
+package semana1;
 
 public class Main {
 

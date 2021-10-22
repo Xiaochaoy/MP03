@@ -1,6 +1,7 @@
-package com.company;
+package semana1;
 
-import java.util.Arrays;
+import semana1.Prints;
+
 import java.util.Scanner;
 
 public class Scans {

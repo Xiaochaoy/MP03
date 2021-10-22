@@ -1,4 +1,4 @@
-package com.company;
+package semana1;
 import java.util.Arrays;
 
 public class Prints {
