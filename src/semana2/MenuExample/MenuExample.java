@@ -76,5 +76,4 @@ public class MenuExample {
         njug = sc.nextInt();
         configGame.setNumPlayers(njug);
     }
-
 }

@@ -8,7 +8,7 @@ public class Player {
         this.name = name;
         points = 0;
     }
-
+    
     public String getName() {
         return name;
     }
